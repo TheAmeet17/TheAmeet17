@@ -15,7 +15,7 @@
 
   <hr />
 
-  <p align="center">✨ <em>"The journey of a thousand lines of code begins with a single commit."</em> ✨</p>
+  <p align="center">✨ <em>"Code hard, debug harder"</em> </p>
 
   <hr />
 
@@ -79,7 +79,7 @@
   <hr />
 
   <h2>💡 Fun Fact:</h2>
-  <p>✨ Did you know? <strong>I love solving algorithmic challenges</strong> and <strong>exploring web development</strong> to make impactful projects!</p>
+  <p>"Code is like humor. When you have to explain it, it’s bad."</p>
 
   <hr />
 
