@@ -15,7 +15,7 @@
 
   <hr />
 
-  <p align="center">✨ <em>"Code hard, debug harder"</em> </p>
+  <p align="center"> <em>"Code hard, debug harder"</em> </p>
 
   <hr />
 
@@ -59,8 +59,7 @@
 
   <h2>🔥 My Contributions:</h2>
   <p align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=TheAmeet17&theme=redical&bg_color=ffffff00&color=38BDAD&title_color=72A6FD" alt="Contribution Graph" />
-  </p>
+  
 
   <p align="center">
     <a href="https://git.io/streak-stats" target="_blank">
@@ -79,7 +78,7 @@
   <hr />
 
   <h2>💡 Fun Fact:</h2>
-  <p>"Code is like humor. When you have to explain it, it’s bad."</p>
+  <p>"               Code is like humor. When you have to explain it, it’s bad."</p>
 
   <hr />
 
